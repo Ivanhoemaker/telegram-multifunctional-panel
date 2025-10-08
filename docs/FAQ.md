@@ -23,6 +23,7 @@ Yes, Telegram Channel Downloader is completely free and open-source under the MI
 ### What platforms are supported?
 
 The application supports:
+
 - **Windows** 10 and later
 - **macOS** 10.13 (High Sierra) and later  
 - **Linux** distributions (Ubuntu 18.04+, Fedora 32+, etc.)
@@ -30,6 +31,7 @@ The application supports:
 ### How is this different from downloading files manually?
 
 Manual downloading is time-consuming and error-prone for large amounts of content. This application provides:
+
 - **Bulk downloading** of hundreds or thousands of files
 - **Automatic organization** into folders by file type
 - **Progress tracking** and resume capability
@@ -41,7 +43,7 @@ Manual downloading is time-consuming and error-prone for large amounts of conten
 
 ### How do I install the application?
 
-1. Download the latest release for your platform from [GitHub Releases](https://github.com/yourusername/telegram-channel-downloader/releases)
+1. Download the latest release for your platform from [GitHub Releases](https://github.com/Eagon71/telegram-channel-downloader/releases)
 2. **Windows**: Run the `.exe` installer
 3. **macOS**: Open the `.dmg` file and drag to Applications
 4. **Linux**: Use the `.AppImage` file or install the `.deb`/`.rpm` package
@@ -57,6 +59,7 @@ Yes, you can install and use the application on multiple computers. However, you
 ### How do I update the application?
 
 Currently, updates are manual:
+
 1. Download the latest version from GitHub Releases
 2. Install over the existing version
 3. Your settings and download history will be preserved
@@ -76,6 +79,7 @@ Currently, updates are manual:
 ### Is it safe to enter my API credentials?
 
 Yes, when obtained from the official Telegram website. The application:
+
 - Stores credentials securely using OS-level encryption
 - Never sends credentials to third-party servers
 - Only communicates with official Telegram servers
@@ -88,6 +92,7 @@ Yes, the same API credentials can be used on multiple devices. Each device will 
 ### What if I forgot my 2FA password?
 
 You'll need to recover it through Telegram's official process:
+
 1. In the Telegram app, go to Settings > Privacy and Security > Two-Step Verification
 2. Use the "Forgot Password?" option
 3. Follow the recovery process via email or security questions
@@ -101,6 +106,7 @@ Telegram requires phone verification for each new session as a security measure.
 ### Why are some files not downloading?
 
 Several reasons can cause this:
+
 - **File type not selected**: Ensure you've selected the correct content types
 - **Permissions**: You might not have access to certain files
 - **File size limits**: Some files might exceed Telegram's download limits
@@ -114,6 +120,7 @@ Yes, the application automatically detects previously downloaded files and skips
 ### How fast are downloads?
 
 Download speed depends on:
+
 - **Your internet connection** speed
 - **Telegram server** performance and location
 - **File sizes** being downloaded
@@ -124,6 +131,7 @@ Typical speeds range from 1-10 MB/s depending on these factors.
 ### Why do downloads sometimes fail?
 
 Common causes:
+
 - **Network interruptions**: Temporary connectivity issues
 - **Telegram rate limits**: Too many API calls in a short time
 - **File availability**: The file may have been deleted from Telegram
@@ -140,6 +148,7 @@ You can only download from channels, groups, or chats that you have access to. T
 ### What file types can I download?
 
 The application categorizes files into:
+
 - **Images**: JPEG, PNG, WebP, GIF, TIFF, BMP, etc.
 - **Videos**: MP4, AVI, MOV, MKV, WebM, etc.
 - **Documents**: PDF, DOC, ZIP, TXT, etc.
@@ -150,6 +159,7 @@ All file types supported by Telegram can be downloaded.
 ### Can I select specific date ranges?
 
 Currently, you can specify message ID ranges. To download content from specific dates:
+
 1. Find the message IDs corresponding to your desired date range
 2. In Telegram Web, right-click messages and copy links to see IDs
 3. Enter the start and end message IDs in the application
@@ -159,6 +169,7 @@ Currently, you can specify message ID ranges. To download content from specific 
 ### How are downloaded files organized?
 
 Files are automatically organized in this structure:
+
 ```
 [Download Path]/
 └── [Channel ID]/
@@ -176,6 +187,7 @@ Currently, the folder structure is fixed for consistency. Custom organization op
 ### What languages are supported?
 
 The application supports 8 languages:
+
 - English
 - 简体中文 (Simplified Chinese)
 - 繁體中文 (Traditional Chinese)  
@@ -194,6 +206,7 @@ Click the language selector dropdown in the top-right corner of the application 
 ### The application won't start
 
 Try these solutions:
+
 1. **Restart your computer** and try again
 2. **Run as administrator** (Windows) or with elevated permissions
 3. **Check antivirus software** - add the application to exclusions
@@ -203,6 +216,7 @@ Try these solutions:
 ### Login keeps failing
 
 Common solutions:
+
 1. **Verify API credentials** are correct (no spaces, correct format)
 2. **Check phone number format** includes country code (+1234567890)
 3. **Try a different network** in case of regional restrictions
@@ -212,6 +226,7 @@ Common solutions:
 ### Downloads are very slow
 
 To improve download speed:
+
 1. **Check internet connection** speed and stability
 2. **Close other bandwidth-heavy applications**
 3. **Try downloading during off-peak hours**
@@ -221,6 +236,7 @@ To improve download speed:
 ### Interface appears corrupted or blank
 
 Solutions:
+
 1. **Try changing the language** and changing back
 2. **Restart the application**
 3. **Check display scaling** settings (Windows: 100-150% recommended)
@@ -230,6 +246,7 @@ Solutions:
 ### Files are missing after download
 
 Check these:
+
 1. **Verify download path** is correct and accessible
 2. **Check if files were skipped** due to existing copies
 3. **Review error logs** in the download summary
@@ -241,6 +258,7 @@ Check these:
 ### Is my data safe?
 
 Yes, the application prioritizes security:
+
 - **Local storage only** - no data sent to external servers
 - **Encrypted credentials** using OS-level security
 - **Open source code** for transparency and verification
@@ -249,6 +267,7 @@ Yes, the application prioritizes security:
 ### What data is stored locally?
 
 The application stores:
+
 - **API credentials** (encrypted)
 - **Session tokens** (encrypted)
 - **User preferences** (language, paths, etc.)
@@ -257,6 +276,7 @@ The application stores:
 ### Can I delete my stored data?
 
 Yes, you can:
+
 1. **Clear from app**: Use logout function to clear session data
 2. **Manual deletion**: Remove application data folder
    - Windows: `%APPDATA%/telegram-channel-downloader/`
@@ -266,6 +286,7 @@ Yes, you can:
 ### Is the application secure from malware?
 
 The application is:
+
 - **Open source** - code is publicly reviewable
 - **Digitally signed** releases (where supported by platform)
 - **Scanned by antivirus** before release
@@ -276,6 +297,7 @@ However, always download from official sources and keep your system updated.
 ### What happens to my session if I uninstall?
 
 Uninstalling the application does not automatically log you out of Telegram. Your session remains active until:
+
 - You explicitly log out through the app
 - You revoke the session through Telegram settings
 - The session expires (rare, but possible)
@@ -283,6 +305,7 @@ Uninstalling the application does not automatically log you out of Telegram. You
 ### Can Telegram see what I download?
 
 Telegram can see API requests made by the application (this is normal for any Telegram client), but:
+
 - **Your specific downloads** are not tracked beyond normal API logs
 - **File contents** are not monitored
 - **Usage patterns** are not analyzed or shared
@@ -296,13 +319,14 @@ If your question isn't answered here:
 
 1. **Check the [User Guide](USER_GUIDE.md)** for detailed instructions
 2. **Review [Troubleshooting Guide](TROUBLESHOOTING.md)** for specific error solutions
-3. **Search [GitHub Issues](https://github.com/yourusername/telegram-channel-downloader/issues)** for similar problems
+3. **Search [GitHub Issues](https://github.com/Eagon71/telegram-channel-downloader/issues)** for similar problems
 4. **Open a new issue** if you can't find a solution
 5. **Join our community** on [Discord](https://discord.gg/telegram-downloader) for real-time help
 
 **Before reporting issues, please include:**
+
 - Operating system and version
 - Application version
 - Steps to reproduce the problem
 - Any error messages or screenshots
-- Log files (if available) 
+- Log files (if available)

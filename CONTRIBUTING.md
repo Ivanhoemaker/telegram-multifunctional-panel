@@ -18,6 +18,7 @@ Thank you for your interest in contributing! This project welcomes contributions
 ### Our Pledge
 
 We pledge to make participation in our project a harassment-free experience for everyone, regardless of:
+
 - Age, body size, disability, ethnicity, gender identity and expression
 - Level of experience, education, socio-economic status
 - Nationality, personal appearance, race, religion
@@ -26,6 +27,7 @@ We pledge to make participation in our project a harassment-free experience for 
 ### Our Standards
 
 **Positive behaviors include:**
+
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
@@ -33,6 +35,7 @@ We pledge to make participation in our project a harassment-free experience for 
 - Showing empathy towards other community members
 
 **Unacceptable behaviors include:**
+
 - Trolling, insulting/derogatory comments, and personal attacks
 - Public or private harassment
 - Publishing others' private information without permission
@@ -57,6 +60,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 ### Good First Issues
 
 Look for issues labeled with:
+
 - `good first issue`: Perfect for newcomers
 - `help wanted`: We'd love community help on these
 - `documentation`: Documentation improvements
@@ -66,7 +70,7 @@ Look for issues labeled with:
 
 ### Prerequisites
 
-- **Node.js** 18+ 
+- **Node.js** 18+
 - **pnpm** (recommended) or npm/yarn
 - **Git**
 - **Code Editor** (VS Code recommended)
@@ -75,12 +79,14 @@ Look for issues labeled with:
 
 1. **Fork the repository** on GitHub
 2. **Clone your fork**:
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/telegram-channel-downloader.git
    cd telegram-channel-downloader
    ```
 
 3. **Add upstream remote**:
+
    ```bash
    git remote add upstream https://github.com/original-repo/telegram-channel-downloader.git
    ```
@@ -407,6 +413,7 @@ Use the feature request template and include:
 ### Questions and Discussions
 
 For questions and general discussions:
+
 - Check existing [discussions](https://github.com/yourusername/telegram-channel-downloader/discussions)
 - Search for similar questions in issues
 - Use appropriate discussion categories
@@ -417,6 +424,7 @@ For questions and general discussions:
 
 1. **Check if the language is requested**: Look for related issues
 2. **Copy base translation file**:
+
    ```bash
    cp src/i18n/locales/en.json src/i18n/locales/[language-code].json
    ```
@@ -502,11 +510,12 @@ describe('DownloadButton', () => {
 
 - **Stuck on something?** Ask in GitHub Discussions
 - **Need real-time help?** Join our Discord server
-- **Found a security issue?** Email security@telegram-downloader.example.com
+- **Found a security issue?** Email <gyhoshi@gmail.com>
 
 ### Recognition
 
 Contributors are recognized in:
+
 - **README**: Major contributors listed
 - **Release Notes**: Contributions acknowledged
 - **GitHub**: Contributor statistics
@@ -518,8 +527,8 @@ By contributing to Telegram Channel Downloader, you agree that your contribution
 
 ---
 
-## 🙏 Thank You!
+## 🙏 Thank You
 
 Every contribution, no matter how small, helps make this project better. Whether you're fixing a typo, translating the interface, or implementing a major feature, your work is appreciated by the entire community.
 
-**Happy coding!** 🎉 
+**Happy coding!** 🎉

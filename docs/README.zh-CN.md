@@ -1,8 +1,8 @@
-# 📥 Telegram 频道下载器
+# telegram-multifunctional-panel
 
 <div align="center">
 
-![Logo](../build/icon.png)
+![Logo](../build/icon2.png)
 
 **一个基于 Electron 和 Vue 3 构建的强大跨平台 Telegram 频道内容下载工具**
 
@@ -11,7 +11,7 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-3+-green.svg)](https://vuejs.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-lightgrey.svg)]()
 
-📞 **联系开发者**: [@oooooh_hooooo](https://t.me/oooooh_hooooo)
+📞 **联系开发者**: [@Eagon 耿延](https://t.me/Eagon71)
 
 [English](../README.md) • [简体中文](README.zh-CN.md)
 
@@ -40,15 +40,19 @@
 <div align="center">
 
 ### 登录界面
+
 <img src="../screenshots/1.login.png" alt="登录界面 - 输入 Telegram API 凭据" width="80%" />
 
 ### 主界面
+
 <img src="../screenshots/2.main.png" alt="主界面 - 频道选择和配置" width="80%" />
 
 ### 下载配置
+
 <img src="../screenshots/3.download.png" alt="下载配置 - 选择内容类型和设置" width="80%" />
 
 ### 下载进度
+
 <img src="../screenshots/4.downloading.png" alt="下载进度 - 实时进度跟踪" width="80%" />
 
 </div>
@@ -76,7 +80,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/telegram-channel-downloader.git
+git clone https://github.com/Eagon71/telegram-channel-downloader.git
 cd telegram-channel-downloader
 
 # 安装依赖
@@ -148,21 +152,25 @@ telegram-channel-downloader/
 ## 🎯 使用说明
 
 ### 1. 初始设置
+
 - 启动应用程序
 - 输入你的 Telegram API 凭据
 - 完成手机验证和双重验证（如已启用）
 
 ### 2. 选择频道
+
 - 在左侧边栏浏览可用频道
 - 点击频道进行选择
 - 查看频道信息和下载历史
 
 ### 3. 下载配置
+
 - 选择要下载的内容类型（图片、视频、文档、其他）
 - 设置消息 ID 范围（可选）
 - 选择下载目标文件夹
 
 ### 4. 下载过程
+
 - 点击"开始下载"按钮
 - 监控实时进度和统计信息
 - 文件按类型自动组织到文件夹中
@@ -170,11 +178,13 @@ telegram-channel-downloader/
 ## 🔧 配置
 
 应用程序配置存储位置：
+
 - **Windows**: `%APPDATA%/telegram-channel-downloader/`
 - **macOS**: `~/Library/Application Support/telegram-channel-downloader/`
 - **Linux**: `~/.config/telegram-channel-downloader/`
 
 存储的数据包括：
+
 - API 凭据（加密）
 - 会话令牌
 - 用户偏好设置
@@ -210,13 +220,13 @@ telegram-channel-downloader/
 
 ## 📞 支持
 
-- 💬 **开发者**: [@oooooh_hooooo](https://t.me/oooooh_hooooo)
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/yourusername/telegram-channel-downloader/issues)
-- 💡 **讨论交流**: [GitHub Discussions](https://github.com/yourusername/telegram-channel-downloader/discussions)
-- 📧 **邮件**: support@telegram-downloader.example.com
+- 💬 **开发者**: [@Eagon 耿延](https://t.me/Eagon71)
+- 🐛 **问题反馈**: [GitHub Issues](https://github.com/Eagon71/telegram-channel-downloader/issues)
+- 💡 **讨论交流**: [GitHub Discussions](https://github.com/Eagon71/telegram-channel-downloader/discussions)
+- 📧 **邮件**: <gyhoshi@gmail.com>
 
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://t.me/oooooh_hooooo">@oooooh_hooooo</a>
+Made with ❤️ by <a href="https://t.me/Eagon71">@Eagon 耿延</a>
 </div>

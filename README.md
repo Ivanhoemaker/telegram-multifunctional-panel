@@ -11,7 +11,7 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-3+-green.svg)](https://vuejs.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-lightgrey.svg)]()
 
-📞 **Contact Developer**: [@oooooh_hooooo](https://t.me/oooooh_hooooo) | 💬 **Join Group**: [Telegram Channel Downloader Chat](https://t.me/channel_downloader_chat)
+📞 **Contact Developer**: [@Eagon 耿延](https://t.me/Eagon71) | 💬 **Join Group**: [Telegram Channel Downloader Chat](https://t.me/@eagonhome)
 
 [English](README.md) • [简体中文](docs/README.zh-CN.md)
 
@@ -25,8 +25,8 @@
 - 📋 **Channel Management**: Browse and select from all accessible channels/groups
 - 📥 **Bulk Download**: Download media files and messages in batch
 - 🎯 **Content Filtering**: Filter by media type (images, videos, documents, others)
-- � **Multi-media Support**: Automatically download all media files from messages containing multiple items (albums/media groups)
-- �📏 **File Size Filter**: Filter files by minimum/maximum size (KB) for precise control
+- 📏 **Multi-media Support**: Automatically download all media files from messages containing multiple items (albums/media groups)
+- 📏 **File Size Filter**: Filter files by minimum/maximum size (KB) for precise control
 - 🔍 **Filename Filter**: Include or exclude files based on filename patterns
 - 📊 **Real-time Progress**: Live download progress with detailed statistics
 - 💾 **Data Export**: Export message data as structured JSON files
@@ -81,7 +81,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/telegram-channel-downloader.git
+git clone https://github.com/Eagon71/telegram-channel-downloader.git
 cd telegram-channel-downloader
 
 # Install dependencies
@@ -221,14 +221,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 💬 **Developer**: [@oooooh_hooooo](https://t.me/oooooh_hooooo)
-- 👥 **Group Chat**: [Telegram Channel Downloader Chat](https://t.me/channel_downloader_chat)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/telegram-channel-downloader/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/yourusername/telegram-channel-downloader/discussions)
-- 📧 **Email**: <support@telegram-downloader.example.com>
+- 💬 **Developer**: [@Eagon 耿延](https://t.me/Eagon71)
+- 👥 **Group Chat**: [Telegram Channel Downloader Chat](https://t.me/@eagonhome)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Eagon71/telegram-channel-downloader/issues)
+- 💡 **Discussions**: [GitHub Discussions](https://github.com/Eagon71/telegram-channel-downloader/discussions)
+- 📧 **Email**: <gyhoshi@gmail.com>
 
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://t.me/oooooh_hooooo">@oooooh_hooooo</a>
+Made with ❤️ by <a href="https://t.me/Eagon71">@Eagon 耿延</a>
 </div>
