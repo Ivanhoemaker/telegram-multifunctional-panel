@@ -1,8 +1,8 @@
-# 📥 Telegram Channel Downloader
+# telegram-multifunctional-panel
 
 <div align="center">
 
-![Logo](build/icon.png)
+![Logo](build/icon2.png)
 
 **A powerful cross-platform Telegram channel content downloader built with Electron and Vue 3**
 
@@ -13,7 +13,7 @@
 
 📞 **Contact Developer**: [@oooooh_hooooo](https://t.me/oooooh_hooooo) | 💬 **Join Group**: [Telegram Channel Downloader Chat](https://t.me/channel_downloader_chat)
 
-[English](README.md) • [简体中文](docs/README.zh-CN.md) 
+[English](README.md) • [简体中文](docs/README.zh-CN.md)
 
 </div>
 
@@ -41,15 +41,19 @@
 <div align="center">
 
 ### 登录界面 | Login Interface
+
 <img src="screenshots/1.login.png" alt="Login Interface - Enter Telegram API credentials" width="80%" />
 
 ### 主界面 | Main Interface  
+
 <img src="screenshots/2.main.png" alt="Main Interface - Channel selection and configuration" width="80%" />
 
 ### 下载配置 | Download Configuration
+
 <img src="screenshots/3.download.png" alt="Download Configuration - Select content types and settings" width="80%" />
 
 ### 下载进度 | Download Progress
+
 <img src="screenshots/4.downloading.png" alt="Download Progress - Real-time progress tracking" width="80%" />
 
 </div>
@@ -69,7 +73,7 @@
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - pnpm (recommended) or npm/yarn
 - Telegram API credentials (see [Getting API Credentials](#-getting-telegram-api-credentials))
 
@@ -149,21 +153,25 @@ telegram-channel-downloader/
 ## 🎯 Usage
 
 ### 1. Initial Setup
+
 - Launch the application
 - Enter your Telegram API credentials
 - Complete phone verification and 2FA if enabled
 
 ### 2. Channel Selection
+
 - Browse available channels in the left sidebar
 - Click on a channel to select it
 - View channel information and download history
 
 ### 3. Download Configuration
+
 - Choose content types to download (images, videos, documents, others)
 - Set message ID range (optional)
 - Select download destination folder
 
 ### 4. Download Process
+
 - Click "Start Download" to begin
 - Monitor real-time progress and statistics
 - Files are organized in folders by type
@@ -171,11 +179,13 @@ telegram-channel-downloader/
 ## 🔧 Configuration
 
 The application stores configuration in:
+
 - **Windows**: `%APPDATA%/telegram-channel-downloader/`
 - **macOS**: `~/Library/Application Support/telegram-channel-downloader/`
 - **Linux**: `~/.config/telegram-channel-downloader/`
 
 Stored data includes:
+
 - API credentials (encrypted)
 - Session tokens
 - User preferences
@@ -215,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 👥 **Group Chat**: [Telegram Channel Downloader Chat](https://t.me/channel_downloader_chat)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/telegram-channel-downloader/issues)
 - 💡 **Discussions**: [GitHub Discussions](https://github.com/yourusername/telegram-channel-downloader/discussions)
-- 📧 **Email**: support@telegram-downloader.example.com
+- 📧 **Email**: <support@telegram-downloader.example.com>
 
 ---
 
